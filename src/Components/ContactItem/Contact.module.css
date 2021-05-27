@@ -1,0 +1,16 @@
+ul {
+  padding: 0;
+}
+
+.contactItem {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.contactItem:last-child {
+  margin-bottom: 0;
+}
+
+.info {
+  margin-left: 10px;
+}
